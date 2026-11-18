@@ -5,7 +5,7 @@ model = mujoco.MjModel.from_xml_path(
 )
 
 joint_names = [
-    "bae",
+    "base",
     "shoulder",
     "elbow",
     "wrist",
